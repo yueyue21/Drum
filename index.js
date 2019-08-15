@@ -56,6 +56,3 @@ function buttonAnimation(currentKey) {
     activeButton.classList.remove("pressed");
   }, 100);
 }
-
-// var audio = new Audio("sounds/tom-1.mp3");
-// audio.play();
